@@ -33,7 +33,7 @@ Bước 2. Sử dụng tài khoản đã được cấp bởi nhà trường đ�
 
 Bước 3. Khi bạn đăng nhập thành công, hệ thống sẽ yêu cầu đổi mật khẩu. Nếu bạn đã đổi mật khẩu thì website sẽ redirect bạn đến page này:
 
-https://raw.githubusercontent.com/log1cs/THPTQG-2022-RegistrationGuide/main/giaodien.png
+![b3](https://raw.githubusercontent.com/log1cs/THPTQG-2022-RegistrationGuide/main/giaodien.png)
 
 Bước 4. Hãy hít thở thật sâu! Nên nhớ rằng bắt đầu từ đây bạn sẽ phải làm mọi thứ thật cẩn thận 100%, nếu không thì hậu quả sẽ như thế nào... Cái đó bạn tự biết. Tôi chỉ có trách nhiệm hướng dẫn.
 
@@ -41,13 +41,13 @@ Bước 5. Hãy để ý tất cả các mục được nhắc đến sau đây:
 
 ### Mục (3) ###
 
-https://raw.githubusercontent.com/log1cs/THPTQG-2022-RegistrationGuide/main/3c.png
+![m3](https://raw.githubusercontent.com/log1cs/THPTQG-2022-RegistrationGuide/main/3c.png)
 
 + Nếu bạn là **người quốc tịch nước ngoài** thì tick vào, cái này là **BẮT BUỘC**.
 
 ### Mục (5) ###
 
-https://raw.githubusercontent.com/log1cs/THPTQG-2022-RegistrationGuide/main/5.png
+![m5](https://raw.githubusercontent.com/log1cs/THPTQG-2022-RegistrationGuide/main/5.png)
 
 - **KHÔNG** cần điền phường
 
@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/log1cs/THPTQG-2022-RegistrationGuide/main/5.pn
 
 ### Mục (6) ###
 
-https://raw.githubusercontent.com/log1cs/THPTQG-2022-RegistrationGuide/main/6.png
+![m6](https://raw.githubusercontent.com/log1cs/THPTQG-2022-RegistrationGuide/main/6.png)
 
 - Tên trường thì bạn hãy bấm vào kính lúp và tự tìm trường mình. Nếu bạn đủ pro đến mức nhớ cả mã trường mình là gì thì viết mã trường vào cho nhanh. Đỡ tốn thời gian.
 
@@ -71,7 +71,7 @@ https://raw.githubusercontent.com/log1cs/THPTQG-2022-RegistrationGuide/main/6.pn
 
 ### Mục 9,10,11 ###
 
-https://raw.githubusercontent.com/log1cs/THPTQG-2022-RegistrationGuide/main/9,10,11.png
+![m9,10,11](https://raw.githubusercontent.com/log1cs/THPTQG-2022-RegistrationGuide/main/9,10,11.png)
 
 ### Mục (9) ###
 
@@ -92,7 +92,7 @@ BẮT BUỘC phải tick vào nếu muốn dùng kết quả thi đó để xét
 
 ### Mục 14,15 ### 
 
-https://raw.githubusercontent.com/log1cs/THPTQG-2022-RegistrationGuide/main/14,15.png
+![m14,15](https://raw.githubusercontent.com/log1cs/THPTQG-2022-RegistrationGuide/main/14,15.png)
 
 ### Mục 14 ###
 
