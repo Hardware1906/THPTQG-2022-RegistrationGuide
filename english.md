@@ -1,4 +1,13 @@
-### Registration Guide for Vietnamese High School Graduation Exam 2022 ###
+Notes:
+
+English translation - thanks [@Hardware1906](https://github.com/Hardware1906)
+
+Русский перевод на подходе для тех, кто интересуется этим.
+
+中文翻译正在为有兴趣的人准备。
+
+
+### Registration Guide for Vietnamese High School Graduation Exam 2022 (for foreign examinee or who are curious about Vietnamese HSGE) ###
 
 ### Do it with caution and there are some reminder for you before registration! ###
 
@@ -122,7 +131,7 @@ Update 05/05/2022: This site has removed Cert upload feature (temporarily).
 
 Frequently Asked Questions (FAQ):
 
-Q: If i learnt 1st semester at school A, and 2nd semester at school B, then waht should i do?
+Q: If i learnt 1st semester at school A, and 2nd semester at school B, then what should i do?
 
 A: All of 3 years at B. Write school B in (6).
 
@@ -133,5 +142,5 @@ A: Then you'll fill A in grade 10 box. And at grade 11, 12 box fill B.
 
 **--- END ---**
 
-- If you find this useful, please star this repo.
+- If you find this useful, you can star this repo.
 - Repo will be archived after 13/5/2022
