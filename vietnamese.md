@@ -1,3 +1,11 @@
+Notes:
+
+English translation is on the way for those who curious about this.
+
+Русский перевод на подходе для тех, кто интересуется этим.
+
+中文翻译正在为有兴趣的人准备。
+
 ### Hướng dẫn đăng ký thi Trung học Phổ thông Quốc gia 2022 ###
 
 ### Hãy làm thật CẨN THẬN, và dưới đây là một số nhắc nhở dành cho bạn trước khi làm! ###
