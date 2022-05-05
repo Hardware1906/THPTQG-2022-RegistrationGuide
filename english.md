@@ -17,7 +17,7 @@ English translation - thanks [@Hardware1906](https://github.com/Hardware1906)
 
 - You don't read these carefully, and you could be kicked out of your school . 
 
-+ BE CAUTION:
++ BE CAUTIOUS:
 
 (!) IELTS/TOEFL cerf upload feature isn't available (temporarily) so just skip it and upload the cerf when the feature is available. Now, just choose the cert and write your score
 If your certificate is at JPG/JPEG format (image) then go to this site and convert it to PDF (Wait until Ministry of Education & Training enables the upload feature, then you can upload it)
