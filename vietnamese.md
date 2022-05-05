@@ -1,6 +1,6 @@
 Notes:
 
-English translation is on the way for those who curious about this.
+English translation is on the way for those who are curious about this.
 
 Русский перевод на подходе для тех, кто интересуется этим.
 
