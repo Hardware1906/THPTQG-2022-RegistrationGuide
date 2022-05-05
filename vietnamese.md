@@ -8,7 +8,7 @@
 
 - Bạn không đọc kĩ tất cả các mục bên dưới, gây ra họa lớn cho cả cuộc đời của bạn, bạn bị đuổi học vì không làm kĩ theo guide trên. 
 
-BẠN ĐÃ VÀ ĐANG ĐƯA RA LỰA CHỌN theo hướng dẫn này, nếu bạn đã làm theo guide mà còn tự hủy chính mình được thì, lúc đó tôi cũng hết cách rồi.
+BẠN ĐÃ VÀ ĐANG ĐƯA RA LỰA CHỌN làm theo hướng dẫn này, nếu bạn đã làm theo guide mà còn tự hủy chính mình được thì, lúc đó tôi cũng hết cách rồi.
 
 + LƯU Ý:
 
